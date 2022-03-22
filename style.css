@@ -51,9 +51,7 @@ body {
 
   color: hsl(220, 15%, 55%);
 }
-.attribution {
-  margin-top: 50px;
-}
+
 @media screen and (max-width: 375px) {
   .card {
     width: 90%;
