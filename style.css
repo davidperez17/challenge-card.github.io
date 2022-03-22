@@ -61,6 +61,6 @@ body {
     font-size: calc(2.3rem - 50%);
   }
   .card__text {
-    font-size: calc(1.5rem - 50%);
+    font-size: calc(1.5rem - 30%);
   }
 }
