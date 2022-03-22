@@ -13,6 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
 }
@@ -50,7 +51,9 @@ body {
 
   color: hsl(220, 15%, 55%);
 }
-
+.attribution {
+  margin-top: 50px;
+}
 @media screen and (max-width: 375px) {
   .card {
     width: 90%;
