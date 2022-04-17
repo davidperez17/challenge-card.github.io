@@ -35,7 +35,7 @@ body {
 }
 
 .card {
-  width: 350px;
+  width: 320px;
   height: auto;
   background-color: var(--white);
 
@@ -52,7 +52,7 @@ body {
 .card h1 {
   font-family: "Outfit", sans-serif;
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2.3rem;
   text-align: center;
 
   color: var(--darkBlue);
@@ -70,6 +70,6 @@ body {
 }
 img {
   margin-top: 13px;
-  width: 92%;
+  width: 90%;
   border-radius: 10px;
 }
